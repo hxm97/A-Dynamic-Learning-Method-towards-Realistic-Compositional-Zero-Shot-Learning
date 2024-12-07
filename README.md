@@ -3,7 +3,7 @@ This is the PyTorch code of our AAAI 2024 paper - A Dynamic Learning Method towa
 We provide the training and testing code implementation of our method on the MIT-States-RCZSL dataset.
 
 <p align="center">
-  <img src="fig2.pdf" />
+  <img src="fig.pdf" />
 </p>
 
 If you find this code helpful, please cite
