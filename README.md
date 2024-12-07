@@ -1,7 +1,10 @@
 # Dynamic-RCZSL
 This is the PyTorch code of our AAAI 2024 paper - A Dynamic Learning Method towards Realistic Compositional Zero-Shot Learning.
+
 The code for creating dataset is provided in /dataset/dataset.py and /dataset/dataset_split.py.
+
 The file for spliting the dataset is provided in /mitstates_img_split and /mitstates_pair_split.
+
 We provide the training and testing code implementation of our method on the MIT-States-RCZSL dataset.
 
 <p align="center">
