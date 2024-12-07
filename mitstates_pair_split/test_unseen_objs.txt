@@ -1,0 +1,12 @@
+apple
+beef
+bowl
+candy
+desert
+envelope
+elephant
+knife
+paint
+shirt
+tower
+wood

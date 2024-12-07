@@ -1,0 +1,6 @@
+clear
+filled
+painted
+runny
+thick
+wet
